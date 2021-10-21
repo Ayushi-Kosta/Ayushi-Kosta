@@ -8,14 +8,14 @@ Ayushi-Kosta/Ayushi-Kosta is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 ---> 
 
-<h1 align="center">Hi! I'm Ayushi Kosta<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi! I'm Ayushi Kosta<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30px"></h1>
 <h3 align="center">A passionate competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-kosta&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-kosta" /> </p>
 
 - 📫 How to reach me **kostaayushi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>   <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16137322-Pretty-girl-writing-email-on-laptop">
 <p align="left">
 <a href="https://codepen.io/ayushik_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ayushik_27" height="30" width="40" /></a>
 <a href="https://instagram.com/ayushik_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushik_27" height="30" width="40" /></a>
@@ -50,5 +50,7 @@ You can click the Preview link to take a look at your changes.
 </p> 
 <br>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushi-Kosta&show_icons=true&locale=en&layout=compact" alt="Ayushi-Kosta" /></p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+
 
