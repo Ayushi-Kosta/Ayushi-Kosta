@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m Ayushi-Kosta
-- 👀 I’m interested in Competitive Programming.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning Data Structures and Algorithms, machine learning.
 - 📫 How to reach me? mail on kostaayushi@gmail.com
 
 <!---
@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ---> 
 
 <h1 align="center">Hi! I'm Ayushi Kosta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-<h3 align="center">A passionate competitive programmer</h3>
+<h3 align="center">A Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-kosta&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-kosta" /> </p>
 
