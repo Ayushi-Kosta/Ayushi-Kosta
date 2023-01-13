@@ -58,6 +58,9 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:kostaayushi@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+ <a href="[mailto:kostaayushi@gmail.com](https://twitter.com/AyushiKosta_27)">
+<img alt="Twitter" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)" />
+</a>
 </p> 
 <br>
 
