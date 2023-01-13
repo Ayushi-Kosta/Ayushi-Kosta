@@ -1,7 +1,7 @@
 <!-- - 👋 Hi, I’m Ayushi-Kosta
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Data Structures and Algorithms, machine learning.
-- 📫 How to reach me? mail on kostaayushi@gmail.com
+- 📫 How to reach me? mail on mailto:kostaayushi@gmail.com
 
 <!---
 Ayushi-Kosta/Ayushi-Kosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
